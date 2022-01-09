@@ -1,4 +1,4 @@
-//Question No 2
+//Question No 1
 
 
 #include<iostream>
